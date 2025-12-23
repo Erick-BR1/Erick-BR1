@@ -28,6 +28,7 @@ Atuo com foco em **arquitetura de software**, **boas práticas**, **Domain-Drive
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Auth](https://img.shields.io/badge/Auth-4B5563)
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 
 ### 🎨 Front-End

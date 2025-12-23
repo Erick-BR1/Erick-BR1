@@ -28,7 +28,6 @@ Atuo com foco em **arquitetura de software**, **boas práticas**, **Domain-Drive
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Auth](https://img.shields.io/badge/Auth-4B5563)
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 
 ### 🎨 Front-End
@@ -42,7 +41,7 @@ Atuo com foco em **arquitetura de software**, **boas práticas**, **Domain-Drive
 
 ### 🗄️ Banco de Dados & Infra
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
@@ -53,19 +52,30 @@ Atuo com foco em **arquitetura de software**, **boas práticas**, **Domain-Drive
 
 ---
 
+### 🛠 Tooling & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+- Versionamento com **Git**
+- Pipelines de **CI/CD** automatizados com **GitHub Actions**
+- Execução de testes e validações antes de merge
+- Padronização de código e qualidade contínua
+
+---
+
 ## 🧩 Projetos & Estudos
 
 - APIs REST com **Fastify + TypeScript**
 - Aplicações seguindo **DDD + Clean Architecture**
-- Integração com **PostgreSQL + Prisma**
+- Integração com **PostgreSQL e SQL Server**
 - Ambientes containerizados com **Docker**
 - Front-end moderno com **Vue 3 + Vuetify**
 - Testes automatizados com **Vitest**
+- Pipelines de CI garantindo qualidade de entrega
 
 ---
 
 ## 📫 Contato
 
-- 📧 **Email:** e.rodriguescontact@gmail.com
+- 📧 **Email:** e.rodriguescontact@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/erick-rodrigues-/
-
